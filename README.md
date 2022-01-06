@@ -1,3 +1,6 @@
+# Link to app hosted on netlify
+https://friendly-shaw-b91e57.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
